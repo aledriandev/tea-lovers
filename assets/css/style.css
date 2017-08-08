@@ -1,0 +1,14 @@
+/* 
+Código Hexadecimal verde: #8EC641
+Código Hexadecimal gris footer: #3B3B3B
+*/
+*{
+	margin: 0 auto;
+}
+
+body{
+	width: 100%;
+	margin: auto;
+	font-family: Raleway;
+	font-weight: black;
+}
